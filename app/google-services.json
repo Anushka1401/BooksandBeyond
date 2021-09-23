@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "242464456477",
+    "project_id": "books-and-beyond-8714a",
+    "storage_bucket": "books-and-beyond-8714a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242464456477:android:ca87821897b73a0bb12bf4",
+        "android_client_info": {
+          "package_name": "com.example.booksandbeyond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "242464456477-oi012b4p64ou6eikmkmbce38a6elln20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtjZn2o3urC2xWbqmNAs16nNEL8AFQECg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "242464456477-oi012b4p64ou6eikmkmbce38a6elln20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
